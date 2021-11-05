@@ -1,4 +1,4 @@
-# Dashboards Catalog
+# Dashboard Catalog
 *This repository contains short dashboard projects I have made.*
 
 
