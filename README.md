@@ -4,4 +4,4 @@
 
 
 1. [RFM Analysis Dashbard](https://github.com/caestradaa/other_dashboards/tree/main/RFM_Analysis_Dashboard) (PowerBI/Excel)
-2. [Bakery Sales Dashboard]()
+2. [Bakery Sales Dashboard](https://github.com/caestradaa/other_dashboards/tree/main/Bakery_Sales_Dashboard) (PowerBI/Excel)
